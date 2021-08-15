@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="maxresdefault" size="5.000000 2.812500" />
+    <ImageTarget name="Assassins-Creed-Symbol" size="5.000000 2.991453" />
+    <ImageTarget name="watch_dogs_2_wallpaper_background_by_galapont-da6hydn" size="2.000000 1.091797" />
+  </Tracking>
+</QCARConfig>
